@@ -12,3 +12,5 @@ DIM_Status     ──┤
 DIM_Employee   ──┘
 # TOOLS USED
 MICROSOFT EXCEL-POWER BI DASHBOARD-POWER QUERRY-DAX
+# DASHBOARD
+[People Intelligence dashboard](<img width="1126" height="637" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/cdf98cc1-e7ec-4b22-b2ea-8e262e2da385" />
