@@ -15,7 +15,10 @@ DIM_Employee   ──┘
 MICROSOFT EXCEL-POWER BI DASHBOARD-POWER QUERRY-DAX
 # PROJECT FILES
 Dataset (Excel): [Download Dataset](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/Raw&cleaned.xlsx)
+#
 Star Schema: [Download Dataset](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/hr_star_schema.xlsx)
+#
+Dashboard: [Download PBIX](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/Peopleintelligence.pbix)
 # DASHBOARD
 ## People Intelligence dashboard
 <img width="1435" height="799" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/55a5be8d-ccf9-48c3-8ee2-f20c16b40c34" />
