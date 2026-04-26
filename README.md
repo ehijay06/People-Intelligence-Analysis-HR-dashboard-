@@ -40,11 +40,11 @@ The dataset was generated from scratch using Claude. It was intentionally messy 
 Once generated, the dataset was cleaned entirely in Excel using TRIM(), PROPER(), DATEVALUE(), Find & Replace, and custom formulas to validate emails and standardize salary formats. 6 duplicate rows were removed, leaving 494 clean records.
 [
 # DATA MODEL (STAR SCHEMA) 
-DIM_Department ──┐
-DIM_Location   ──┤
-DIM_Performance──┼──► FACT_Employee ◄── DIM_Date
-DIM_Status     ──┤
-DIM_Employee   ──┘
+- DIM_Department ──┐
+- DIM_Location   ──┤
+- DIM_Performance──┼──► FACT_Employee ◄── DIM_Date
+- DIM_Status     ──┤
+- DIM_Employee   ──┘
 
 # TOOLS AND TECHNOLOGIES USED
 - Power BI — Data visualization and dashboard creation
