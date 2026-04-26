@@ -47,9 +47,9 @@ DIM_Status     ──┤
 DIM_Employee   ──┘
 
 # TOOLS AND TECHNOLOGIES USED
-Power BI — Data visualization and dashboard creation
-DAX (Data Analysis Expressions) — Calculations and KPIs
-Microsoft Excel — Data storage and preprocessing
+### Power BI — Data visualization and dashboard creation
+### DAX (Data Analysis Expressions) — Calculations and KPIs
+### Microsoft Excel — Data storage and preprocessing
 
 # PROJECT FILES
 Dataset (Excel): [Download Dataset](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/Raw&cleaned.xlsx)
