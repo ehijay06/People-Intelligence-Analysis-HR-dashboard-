@@ -1,4 +1,4 @@
-# People-Intelligence-Analysis-HR-dashboard-
+# People-Intelligence-Analysis-HR-dashboard
 ## OVERVIEW
 This project presents an end-to-end HR Analytics Dashboard built in Power BI to analyze workforce trends, employee performance, compensation, and retention.
 
