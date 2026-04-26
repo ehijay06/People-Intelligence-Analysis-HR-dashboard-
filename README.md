@@ -15,14 +15,14 @@ The goal of this analysis is to provide actionable insights that help organizati
 - Track year-over-year (YoY) changes in key HR metrics
 # KEY METRICS
 The dashboard tracks the following metrics:
-Active Rate (%)
-Attrition Rate (%)
-Average Salary
-Total Salary (Compensation Spend)
-New Hires
-Top Performer Rate
-Needs Improvement Rate
-Headcount
+- Active Rate (%)
+- Attrition Rate (%)
+- Average Salary
+- Total Salary (Compensation Spend)
+- New Hires
+- Top Performer Rate
+- Needs Improvement Rate
+- Headcount
 
 # BUSINESS IMPACT
 This dashboard enables HR teams to:
