@@ -1,5 +1,5 @@
 # People-Intelligence-Analysis-HR-dashboard-
-# OVERVIEW
+## OVERVIEW
 This project presents an end-to-end HR Analytics Dashboard built in Power BI to analyze workforce trends, employee performance, compensation, and retention.
 
 The goal of this analysis is to provide actionable insights that help organizations:
@@ -7,13 +7,13 @@ The goal of this analysis is to provide actionable insights that help organizati
 - Identify top-performing talent
 - Monitor workforce distribution across locations
 - Optimize compensation strategies
-# OBJECTIVES
+## OBJECTIVES
 - Analyze attrition and active workforce trends
 - Evaluate employee performance distribution
 - Assess salary structure and disparities
 - Understand department and location workforce mix
 - Track year-over-year (YoY) changes in key HR metrics
-# KEY METRICS
+## KEY METRICS
 The dashboard tracks the following metrics:
 - Active Rate (%)
 - Attrition Rate (%)
@@ -24,42 +24,42 @@ The dashboard tracks the following metrics:
 - Needs Improvement Rate
 - Headcount
 
-# BUSINESS IMPACT
+## BUSINESS IMPACT
 This dashboard enables HR teams to:
 - Identify high-risk attrition areas early
 - Make data-driven compensation decisions
 - Improve workforce planning across locations
 - Monitor employee performance trends effectively
 Each KPI is enhanced with Year-over-Year (YoY) comparison to show trends over time.
-# KEY INSIGHTS
+## KEY INSIGHTS
 - The Sales department recorded the highest attrition rate, suggesting retention challenges
 - Employees with tenure below 2 years showed significantly higher exit rates
 - Lagos has the highest salary concentration across all locations
-# DATA SOURCE
+## DATA SOURCE
 The dataset was generated from scratch using Claude. It was intentionally messy to simulate real-world data quality problems. Every common issue was baked in: mixed date formats, salaries written as 85k / $85,000 / 8.5e+04, duplicate records, broken emails, inconsistent department names like HR, H.R, and human resources all in the same column, blank cells, and numbers stored as text.
 Once generated, the dataset was cleaned entirely in Excel using TRIM(), PROPER(), DATEVALUE(), Find & Replace, and custom formulas to validate emails and standardize salary formats. 6 duplicate rows were removed, leaving 494 clean records.
 [
-# DATA MODEL (STAR SCHEMA) 
+## DATA MODEL (STAR SCHEMA) 
 - DIM_Department   |
 - DIM_Location     |
 - DIM_Performance  | ───► FACT_Employee ◄── DIM_Date
 - DIM_Status       |
 - DIM_Employee     |
 
-# TOOLS AND TECHNOLOGIES USED
+## TOOLS AND TECHNOLOGIES USED
 - Power BI — Data visualization and dashboard creation
 - DAX (Data Analysis Expressions) — Calculations and KPIs
 - Microsoft Excel — Data storage and preprocessing
 
-# PROJECT FILES
+## PROJECT FILES
 Dataset (Excel): [Download Dataset](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/Raw&cleaned.xlsx)
 #
 Star Schema: [Download Dataset](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/hr_star_schema.xlsx)
 #
 Dashboard: [Download PBIX](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/Peopleintelligence.pbix)
 
-# DASHBOARD
-## 📊 Dashboard Features
+## DASHBOARD
+### 📊 Dashboard Features
 ### 🔹 Workforce Overview
 Active vs Attrition Rate
 Headcount distribution
@@ -82,7 +82,7 @@ Office type distribution (Donut chart)
 
 <img width="1126" height="637" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/8ed761fe-317b-4a05-8729-a5bc0385c438" />
 
-# HOW TO USE
+## HOW TO USE
 - Download the dataset and PBIX file
 
 - Open the .pbix file in Power BI Desktop
@@ -90,11 +90,11 @@ Office type distribution (Donut chart)
 - Interact with slicers (Year, Department, Location) to explore insights
 
 
-# 👤 AUTHOR
+## 👤 AUTHOR
 ## Nosa-Jeffery
 Data Analyst | Power BI Developer
 
-## Skilled in:
+### Skilled in:
 - Data Analysis (DAX, Excel)
 - Data Visualization (Power BI)
 - Dashboard Design & Storytelling
