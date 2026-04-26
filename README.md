@@ -56,19 +56,19 @@ Dashboard: [Download PBIX](https://github.com/ehijay06/People-Intelligence-Analy
 
 # DASHBOARD
 ## 📊 Dashboard Features
-🔹 Workforce Overview
+### 🔹 Workforce Overview
 Active vs Attrition Rate
 Headcount distribution
-🔹 Compensation Analysis
+### 🔹 Compensation Analysis
 Average Salary by Department and City
 Salary range and distribution
-🔹 Performance Analysis
+### 🔹 Performance Analysis
 Top Performers vs Needs Improvement
 Performance trends over time
-🔹 Geographic Insights
+### 🔹 Geographic Insights
 Employee distribution by city (Map visual)
 Salary heatmap by location
-🔹 Department & Location Breakdown
+### 🔹 Department & Location Breakdown
 Department mix per city (Matrix view)
 Office type distribution (Donut chart)
 
