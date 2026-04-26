@@ -94,4 +94,7 @@ Office type distribution (Donut chart)
 ## Nosa-Jeffery
 Data Analyst | Power BI Developer
 
-
+## Skilled in:
+- Data Analysis (DAX, Excel)
+- Data Visualization (Power BI)
+- Dashboard Design & Storytelling
