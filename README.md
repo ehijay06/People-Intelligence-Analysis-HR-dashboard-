@@ -86,7 +86,7 @@ Open the .pbix file in Power BI Desktop
 Interact with slicers (Year, Department, Location) to explore insights
 
 # 👤 AUTHOR
-Nosa-Jeffery
+## Nosa-Jeffery
 Data Analyst | Power BI Developer
 
 
