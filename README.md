@@ -52,9 +52,9 @@ Once generated, the dataset was cleaned entirely in Excel using TRIM(), PROPER()
 - Microsoft Excel — Data storage and preprocessing
 
 ## PROJECT FILES
-Dataset (Excel): [Download Dataset](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/Raw&cleaned.xlsx)
-Star Schema: [Download Dataset](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/hr_star_schema.xlsx)
-Dashboard: [Download PBIX](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/Peopleintelligence.pbix)
+- Dataset (Excel): [Download Dataset](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/Raw&cleaned.xlsx)
+- Star Schema: [Download Dataset](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/hr_star_schema.xlsx)
+- Dashboard: [Download PBIX](https://github.com/ehijay06/People-Intelligence-Analysis-HR-dashboard-//blob/main/Peopleintelligence.pbix)
 
 ## DASHBOARD
 ### 📊 Dashboard Features
