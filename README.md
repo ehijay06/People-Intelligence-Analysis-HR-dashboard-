@@ -80,7 +80,9 @@ Office type distribution (Donut chart)
 
 # HOW TO USE
 Download the dataset and PBIX file
+#
 Open the .pbix file in Power BI Desktop
+#
 Interact with slicers (Year, Department, Location) to explore insights
 
 # 👤 AUTHOR
