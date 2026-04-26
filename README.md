@@ -73,7 +73,9 @@ Department mix per city (Matrix view)
 Office type distribution (Donut chart)
 
 ## DASHBOARD PREVIEW
+# 
 <img width="1435" height="799" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/55a5be8d-ccf9-48c3-8ee2-f20c16b40c34" />
+# 
 <img width="1126" height="637" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/8ed761fe-317b-4a05-8729-a5bc0385c438" />
 
 # HOW TO USE
