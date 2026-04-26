@@ -35,10 +35,7 @@ Each KPI is enhanced with Year-over-Year (YoY) comparison to show trends over ti
 - The Sales department recorded the highest attrition rate, suggesting retention challenges
 - Employees with tenure below 2 years showed significantly higher exit rates
 - Lagos has the highest salary concentration across all locations
-## DATA SOURCE
-The dataset was generated from scratch using Claude. It was intentionally messy to simulate real-world data quality problems. Every common issue was baked in: mixed date formats, salaries written as 85k / $85,000 / 8.5e+04, duplicate records, broken emails, inconsistent department names like HR, H.R, and human resources all in the same column, blank cells, and numbers stored as text.
-Once generated, the dataset was cleaned entirely in Excel using TRIM(), PROPER(), DATEVALUE(), Find & Replace, and custom formulas to validate emails and standardize salary formats. 6 duplicate rows were removed, leaving 494 clean records.
-[
+
 ## DATA MODEL (STAR SCHEMA) 
 - DIM_Department   |
 - DIM_Location     |
