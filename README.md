@@ -3,16 +3,16 @@
 This project presents an end-to-end HR Analytics Dashboard built in Power BI to analyze workforce trends, employee performance, compensation, and retention.
 
 The goal of this analysis is to provide actionable insights that help organizations:
-Improve employee retention
-Identify top-performing talent
-Monitor workforce distribution across locations
-Optimize compensation strategies
+- Improve employee retention
+- Identify top-performing talent
+- Monitor workforce distribution across locations
+- Optimize compensation strategies
 # OBJECTIVES
-Analyze attrition and active workforce trends
-Evaluate employee performance distribution
-Assess salary structure and disparities
-Understand department and location workforce mix
-Track year-over-year (YoY) changes in key HR metrics
+- Analyze attrition and active workforce trends
+- Evaluate employee performance distribution
+- Assess salary structure and disparities
+- Understand department and location workforce mix
+- Track year-over-year (YoY) changes in key HR metrics
 # KEY METRICS
 The dashboard tracks the following metrics:
 Active Rate (%)
@@ -83,11 +83,11 @@ Office type distribution (Donut chart)
 <img width="1126" height="637" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/8ed761fe-317b-4a05-8729-a5bc0385c438" />
 
 # HOW TO USE
-Download the dataset and PBIX file
+- Download the dataset and PBIX file
 
-Open the .pbix file in Power BI Desktop
+- Open the .pbix file in Power BI Desktop
 
-Interact with slicers (Year, Department, Location) to explore insights
+- Interact with slicers (Year, Department, Location) to explore insights
 
 
 # 👤 AUTHOR
