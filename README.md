@@ -75,6 +75,7 @@ Office type distribution (Donut chart)
 # 
 <img width="1470" height="1714" alt="photo_1_2026-05-02_00-51-58" src="https://github.com/user-attachments/assets/f861639c-dd97-4edb-b20c-1fca8fd06012" />
 
+<img width="1433" height="1712" alt="photo_2_2026-05-02_00-51-58" src="https://github.com/user-attachments/assets/76365bfb-e0a5-4f37-91e1-a3a9ed1c71b4" />
 
 
 
